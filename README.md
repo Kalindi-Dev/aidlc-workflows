@@ -20,6 +20,9 @@ AI-DLC is an intelligent software development workflow that adapts to your needs
 
 ---
 
+> [!NOTE]
+> **For workshops, we recommend using a pinned release version.** The current recommended release is [v0.1.6](https://github.com/awslabs/aidlc-workflows/releases/tag/v0.1.6). The `main` branch contains ongoing development changes that may not yet be included in a release.
+
 ## Quick Start
 
 1. Download the latest release zip from the [Releases page](../../releases/latest) to a folder **outside** your project directory (e.g., `~/Downloads`).
