@@ -60,7 +60,7 @@ _CSS = """\
 * { box-sizing: border-box; }
 body {
     font-family: 'Amazon Ember', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
-    max-width: 1200px; margin: 0 auto; padding: 24px;
+    margin: 0; padding: 24px;
     color: var(--gray-900); background: #fff; line-height: 1.6;
 }
 h1 { font-size: 28px; margin: 0 0 4px 0; }
